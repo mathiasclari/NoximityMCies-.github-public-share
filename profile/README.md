@@ -11,8 +11,7 @@
 |-----| ----- |
 | Owner | MathiasClari |
 | Manager | TehZombiJesus |
-|Developer| Eyezahhhh |
-|Developer| Java4Life17 |
+| Developer | Java4Life17 |
 
 
 </div>
